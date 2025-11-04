@@ -19,7 +19,7 @@ Make sure you have Python and the necessary libraries installed. You can install
 pip install pandas scikit-learn surprise
 ```
 ## 💬 Contact
-If you have any questions, feel free to reach out to me on Twitter [@tiazden](https://twitter.com/tiazden) or by email at [hich.tala.phd@gmail.com](mailto:hich.tala.phd@gmail.com).
+If you have any questions, feel free to reach out to me on Twitter [@hichtala](https://twitter.com/hichtala) or by email at [hich.tala.phd@gmail.com](mailto:hich.tala.phd@gmail.com).
 
 # 
 Made with ❤️ and Python 🐍.
